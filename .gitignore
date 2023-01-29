@@ -1,3 +1,4 @@
 logs/
 maon.logs
 .*logs
+bin/
